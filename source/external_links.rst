@@ -1,11 +1,6 @@
-======================
-Dean Lab Repositories
-======================
+:orphan:
 
-navigate
-========
-.. _Google:
-https://www.google.com
+External Links
+==============
 
-.. _OpenAI:
-https://www.openai.com
+This page is currently kept out of the main navigation.
